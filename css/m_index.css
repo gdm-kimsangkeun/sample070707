@@ -1,4 +1,4 @@
-@import url('reset.css');
+
 img{max-width: 100%}
 p,a,span,h2,h3{word-break: keep-all;}
 .container{    margin: 0 auto;
