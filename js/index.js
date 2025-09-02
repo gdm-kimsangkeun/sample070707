@@ -365,6 +365,6 @@ function gomo() {
 
     var href = $(location).attr('href');
     var pathname = $(location).attr('pathname');
-    document.location.href = "index_mo.html";
+    document.location.href = "/index_mo.html";
   }
 }

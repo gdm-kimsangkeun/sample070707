@@ -133,7 +133,7 @@ function goPc() {
 
     var href = $(location).attr('href');
     var pathname = $(location).attr('pathname');
-    document.location.href = "index.html";
+    document.location.href = "/index.html";
   }
 }
 $(window).resize(function() {
