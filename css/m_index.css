@@ -38,7 +38,7 @@ p,a,span,h2,h3{word-break: keep-all;}
   text-align: center;
   line-height: 70px;
 }
-.header-wrap .logo  img{height: 60px}
+.header-wrap .logo  img{height: 40px;}
 .header-wrap .logo .logo_c,.header-wrap.fixed .logo_w{display: none}
 .header-wrap.fixed .logo_c{display: inline-block}
 
